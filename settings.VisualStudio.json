@@ -1,0 +1,6 @@
+/* Visual Studio Settings File */
+{
+  "textEditor.codeCompletions.general.codeCompletionsProviders": [],
+  "textEditor.codeCompletions.general.codeCompletionsInvocation": "auto",
+  "textEditor.codeCompletions.preferences.showCodeCompletionsOnNewLines": false
+}
